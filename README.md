@@ -1,4 +1,4 @@
-# Musical-World
+# (MU)Sick!!!!!!!!
 (Mu)Sick is a web application that basically alow user to ulpoad their own songs and can listen to already uploaded songs and can add their song into favorite list.
 This project contains admin side as well as user side.
 User has to first register to the portal before uploading songs.
@@ -34,16 +34,5 @@ Admin Panel Username and Password
 username:admin@gmail.com
 password:sujith123
 ```
-#  Note: do not forget to add your email credentials validate.php and activate_email.php file so as to send email notifications
-
-Some Glimps....
-
-![screenshot 56](https://user-images.githubusercontent.com/38497682/52524811-476dc100-2cc7-11e9-9269-acc1bf00997c.png)
-
-
-![screenshot 57](https://user-images.githubusercontent.com/38497682/52524822-610f0880-2cc7-11e9-8ad6-ff56945583d0.png)
-
-
-![screenshot 61](https://user-images.githubusercontent.com/38497682/52524832-80a63100-2cc7-11e9-902a-62b0b52d14a1.png)
 
 
